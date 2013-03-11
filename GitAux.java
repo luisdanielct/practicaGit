@@ -1,12 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
+/* Linea agregada
  * and open the template in the editor.
  */
 package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author Luis Daniel
  */
 public class GitAux {
     
