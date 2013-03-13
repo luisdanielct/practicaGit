@@ -15,11 +15,13 @@ public class GitAux {
     
     public void metodoAlumno2(){
         System.out.println("metodo 2");
-    }
+    	//adsff
+}
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
-    }
+	//asdfaf    
+}
 	
     public void testGitAux(){ 
      // metodo rama testing 
